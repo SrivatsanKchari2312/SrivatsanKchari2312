@@ -19,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=SrivatsanKchari2312&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-contributor-stats.vercel.app/api?username=SrivatsanKchari2312&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
